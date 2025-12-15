@@ -1,4 +1,16 @@
-hello
+---
+title: Home
+layout: home
+nav_order: 1
+description: hello
+permalink: /
+---
 
-- [space engineer mods](/posts/modding/spengi/spengi-mods.md)
-- [goblin with a fat ass ttrpg (tabletop sim)](/posts/tts/gwafa-tts.md)
+welcome, see below or sidebar for my projects
+
+# modding
+## misc
+- Goblin With A Fat Ass Tabletop Simulator Mod [Link](posts/modding/misc/gwafa-tts/)
+- Space Engineers [Link](/posts/modding/misc/spengi-mods)
+
+## vintage story

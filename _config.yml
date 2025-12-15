@@ -1,1 +1,53 @@
-theme: jekyll-theme-midnight
+title: twizzork
+description: hello
+theme: just-the-docs
+baseurl: ""
+url: https://twizzork.github.io
+repository: twizzork/twizzork.github.io
+permalink: pretty
+
+defaults:
+  - values:
+      layout: "default"
+
+gh_edit_link: false
+gh_edit_link_text: ""
+gh_edit_repository: ""
+gh_edit_branch: ""
+gh_edit_view_mode: ""
+
+color_scheme: dark
+footer_content: "🐧"
+aux_links: false
+search_enabled: false
+nav_external_links:
+  - title: "@twizzork"
+    url: "https://github.com/twizzork"
+
+exclude:
+  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  # specific to the theme website:
+  - bin/
+  - lib/
+  - "*.gemspec"
+  - "*.gem"
+  - LICENSE.txt
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README.md
+  - CODE_OF_CONDUCT.md
+  - docker-compose.yml
+  - Dockerfile
+  # theme test code
+  - fixtures/

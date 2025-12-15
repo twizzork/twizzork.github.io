@@ -1,10 +1,12 @@
 ---
-title: "Space Engineers - Steam Workshop Mods"
+title: "Space Engineers Mods"
+layout: page
 author: twizzork
 pubDate: 2024-11-18T09:00:00
 offset: UTC-7
-description: ""
 ---
+
+# Space Engineers Mods
 
 tldr; steam workshop links:
 - [BetterOreDetectors (150m/450m)](https://steamcommunity.com/sharedfiles/filedetails/?id=3356554074)
